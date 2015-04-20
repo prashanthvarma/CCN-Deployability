@@ -9,3 +9,5 @@ under changing link conditions that must be taken into account while deploying C
 Report: [Education_ET4285_Group32012](Report/Education_ET4285_Group32012.pdf)
 
 Presentation: [Group32012_Presentation](Presentation/Group32012_Presentation.pdf)
+
+Team Members: Mani Prashanth Varma Manthena, Michał Goliński
